@@ -17,5 +17,4 @@ func _ready() -> void:
 	
 	# in my actual project the below values would tween
 	label.percent_visible = 1
-	label.rect_size = textSize
 	ninePatch.margin_right = (textSize.x + (MARGIN * 2) - 1)
