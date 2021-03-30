@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/speach-bubble-ninepatch.png-d2139dff6ddc90138a99eb465e580318.stex"
+path="res://.import/speech-bubble-pointybit.png-c9a344cce1ce76bce7287948d38427b8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://speach-bubble-ninepatch.png"
-dest_files=[ "res://.import/speach-bubble-ninepatch.png-d2139dff6ddc90138a99eb465e580318.stex" ]
+source_file="res://speech-bubble-pointybit.png"
+dest_files=[ "res://.import/speech-bubble-pointybit.png-c9a344cce1ce76bce7287948d38427b8.stex" ]
 
 [params]
 
